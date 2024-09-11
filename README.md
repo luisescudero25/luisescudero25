@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luisescudero25
+- 👀 I’m interested in use technology to optimize processes
+- 🌱 I’m currently learning python and web development
+- 💞️ I’m looking to collaborate on data science and software development projects.
+- 📫 How to reach me tel:987697057
